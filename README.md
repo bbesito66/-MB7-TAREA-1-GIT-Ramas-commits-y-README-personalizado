@@ -21,7 +21,7 @@
 
 ###  Qué lenguajes dominas:
 
-- J-ava (básico, POO y aplicaciones simples)
+- Java (básico, POO y aplicaciones simples)
 
 - Python (básico-intermedio, estructuras de datos, automatización)
 
